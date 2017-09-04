@@ -1,0 +1,6 @@
+{
+  "name": "test",
+  "dependencies": {
+    "github+njlr/buckaroo-java-example": "0.1.0"
+  }
+}

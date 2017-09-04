@@ -1,0 +1,9 @@
+{
+  "github+njlr/buckaroo-java-example": {
+    "source": {
+      "url": "https://github.com/njlr/buckaroo-java-example/archive/5db57763cbb6d374e577c08a6bb20e474c4a7ee5.zip",
+      "sha256": "22dafa4da91fadf919dd98775faaac328e42fdd935c1df47e82b9eb8a768ca1a",
+      "subPath": "/buckaroo-java-example-5db57763cbb6d374e577c08a6bb20e474c4a7ee5"
+    }
+  }
+}
